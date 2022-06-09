@@ -1,0 +1,44 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Jun  6 21:30:37 2022
+# Process ID: 18176
+# Current directory: C:/Users/USER/Downloads/gpio_ready
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25820 C:\Users\USER\Downloads\gpio_ready\gpio.xpr
+# Log file: C:/Users/USER/Downloads/gpio_ready/vivado.log
+# Journal file: C:/Users/USER/Downloads/gpio_ready\vivado.jou
+#-----------------------------------------------------------
+start_guioexit
+INFO: [Common 17-206] Exiting Vivado at Mon Jun  6 21:31:05 2022...
+313] Project file moved from 'D:/gpio20183/gpio201831/gpio' since last save.
+WARNING: [filemgmt 20-922] The BXML file is of a newer version (0.36) then the current supported version (0.33).
+Data could be potentially be lost
+ERROR: [BD 41-1809] Block design name '' found in BD file does not match with actual file name 'gpio.bd'. BD file on disk must be named '.bd'
+Scanning sources...
+ERROR: [Common 17-70] Application Exception: SrcMgr::createSS : type not set
+open_project C:/Users/USER/Downloads/gpio_ready/gpio.xpr
+INFO: [Project 1-313] Project file moved from 'D:/gpio20183/gpio201831/gpio' since last save.
+WARNING: [filemgmt 20-922] The BXML file is of a newer version (0.36) then the current supported version (0.33).
+Data could be potentially be lost
+ERROR: [BD 41-1809] Block design name '' found in BD file does not match with actual file name 'gpio.bd'. BD file on disk must be named '.bd'
+Scanning sources...
+ERROR: [Common 17-70] Application Exception: SrcMgr::createSS : type not set
+open_project C:/Users/USER/Downloads/gpio_ready/gpio.xpr
+INFO: [Project 1-313] Project file moved from 'D:/gpio20183/gpio201831/gpio' since last save.
+WARNING: [filemgmt 20-922] The BXML file is of a newer version (0.36) then the current supported version (0.33).
+Data could be potentially be lost
+ERROR: [BD 41-1809] Block design name '' found in BD file does not match with actual file name 'gpio.bd'. BD file on disk must be named '.bd'
+Scanning sources...
+ERROR: [Common 17-70] Application Exception: SrcMgr::createSS : type not set
+WARNING: [Vivado 12-4842] No board parts matched 'get_board_parts -filter {(PART_NAME =~"*xczu9eg*") || (PART_NAME =~"*xczu7ev*")} -latest_file_version'.
+WARNING: [Vivado 12-4842] No board parts matched 'get_board_parts -filter {(PART_NAME =~"*xczu9eg*" && VENDOR_NAME=="xilinx.com" ) || (PART_NAME =~"*xczu7ev*" && VENDOR_NAME=="xilinx.com")} -latest_file_version'.
+open_project C:/Users/USER/Downloads/gpio_ready/gpio.xpr
+INFO: [Project 1-313] Project file moved from 'D:/gpio20183/gpio201831/gpio' since last save.
+WARNING: [filemgmt 20-922] The BXML file is of a newer version (0.36) then the current supported version (0.33).
+Data could be potentially be lost
+ERROR: [BD 41-1809] Block design name '' found in BD file does not match with actual file name 'gpio.bd'. BD file on disk must be named '.bd'
+Scanning sources...
+ERROR: [Common 17-70] Application Exception: SrcMgr::createSS : type not set
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Jun  6 21:33:04 2022...
