@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\xblocks\xblocks\bin\Debug\xblocks.exe.config
+C:\Users\user\Desktop\xblocks\xblocks\bin\Debug\xblocks.exe
+C:\Users\user\Desktop\xblocks\xblocks\bin\Debug\xblocks.pdb
+C:\Users\user\Desktop\xblocks\xblocks\obj\Debug\xblocks.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\xblocks\xblocks\obj\Debug\xblocks.Form1.resources
+C:\Users\user\Desktop\xblocks\xblocks\obj\Debug\xblocks.Properties.Resources.resources
+C:\Users\user\Desktop\xblocks\xblocks\obj\Debug\xblocks.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\xblocks\xblocks\obj\Debug\xblocks.exe
+C:\Users\user\Desktop\xblocks\xblocks\obj\Debug\xblocks.pdb
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\bin\Debug\xblocks.exe.config
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\bin\Debug\xblocks.exe
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\bin\Debug\xblocks.pdb
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.Form1.resources
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.Properties.Resources.resources
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.exe
+C:\Users\wasd0\Desktop\xblocks\xblocks\xblocks\obj\Debug\xblocks.pdb
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\obj\Debug\xblocks.Form1.resources
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\obj\Debug\xblocks.Properties.Resources.resources
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\obj\Debug\xblocks.exe
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\obj\Debug\xblocks.pdb
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\bin\Debug\xblocks.exe.config
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\bin\Debug\xblocks.exe
+C:\Users\wasd0\Desktop\SOC報告\OK\xblocks\xblocks\xblocks\bin\Debug\xblocks.pdb
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\bin\Debug\xblocks.exe.config
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\bin\Debug\xblocks.exe
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\bin\Debug\xblocks.pdb
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\obj\Debug\xblocks.Form1.resources
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\obj\Debug\xblocks.Properties.Resources.resources
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\obj\Debug\xblocks.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\obj\Debug\xblocks.exe
+C:\Users\USER\Downloads\OK - 複製 (2)\xblocks\xblocks\xblocks\obj\Debug\xblocks.pdb
